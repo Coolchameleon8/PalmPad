@@ -16,17 +16,18 @@ How the case fits together
 <img width="970" height="414" alt="Screenshot 2026-03-31 202141" src="https://github.com/user-attachments/assets/ee099281-f2fe-4ad8-a0ae-335aae21ad97" />
 
 BOM:
-Seeeduino xiao rp2040
-16x SK6812 MINI-E LEDs
-2x EC11 Rotary encoders
-14x MX-Style switches
-10x through-hole 1N4148 Diodes
-1x 0.91 inch OLED display
-14x white blank DSA keycaps
-4x M3x16mm screws
+*Seeeduino xiao rp2040
+*16x SK6812 MINI-E LEDs
+*2x EC11 Rotary encoders
+*14x MX-Style switches
+*10x through-hole 1N4148 Diodes
+*1x 0.91 inch OLED display
+*14x white blank DSA keycaps
+*4x M3x16mm screws
+
 NOT in hackpad kit
-Assorted wire
-6 10nF smd 1206 capacitors
-6 1k Ohm smd 1206 capacitors
-7 200k Ohm smd 1206 capacitors
-5 100k Ohm smd 1206 capacitors
+*Assorted wire
+*6 10nF smd 1206 capacitors
+*6 1k Ohm smd 1206 capacitors
+*7 200k Ohm smd 1206 capacitors
+*5 100k Ohm smd 1206 capacitors
