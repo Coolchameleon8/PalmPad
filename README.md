@@ -13,6 +13,8 @@ The PCB design
 <img width="911" height="633" alt="Screenshot 2026-03-31 201957" src="https://github.com/user-attachments/assets/88999b62-a637-4355-9486-4e8664994b60" />
 
 How the case fits together
+Onshape Link:
+https://cad.onshape.com/documents/9e26ee7e9571adbf7a7901c8/w/e33cc611a5f829e6b25b9a69/e/7c23ee493dd5f25881813654?renderMode=0&uiState=69e04b46a869df219ed1fa1f
 <img width="970" height="414" alt="Screenshot 2026-03-31 202141" src="https://github.com/user-attachments/assets/ee099281-f2fe-4ad8-a0ae-335aae21ad97" />
 
 BOM:
